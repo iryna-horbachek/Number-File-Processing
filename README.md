@@ -1,26 +1,24 @@
-# test
+# Number-File-Processing
 
-# Проект з обробки великого файлу чисел
+# Project for Processing a Large File of Numbers
 
-Цей проект містить JavaScript-код для обробки великого файлу чисел та визначення максимального, мінімального значень, медіани та середнього арифметичного значення.
+This project contains JavaScript code for processing a large file of numbers and determining the maximum, minimum values, median, and arithmetic mean.
 
-## Використання
+## Usage
+1. Clone the project code from the repository:
 
-1. Завантажте код проекту з репозиторію:
+git clone https://github.com/iryna-horbachek/Number-File-Processing.git
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+2. Navigate to the project folder:
 
-Встановіть залежності проекту:
-npm install
-
-Перемістіться в папку проекту:
 cd your-repository
 
-Запустіть скрипт в середовищі Node.js:
+3. Run the script in the Node.js environment:
+
 node script.js
 
-Важливо
 
-Переконайтеся, що ви маєте встановлене середовище виконання Node.js.
-Версія Node.js: 14.17.0 (або новіша)
+Important
+
+Make sure you have Node.js runtime installed.
+Node.js Version: 14.17.0 (or newer)
