@@ -17,8 +17,9 @@ cd your-repository
 
 node script.js
 
+You can download Node.js by following the link below.
+https://nodejs.org/en
 
-Important
-
+4. Important
 Make sure you have Node.js runtime installed.
 Node.js Version: 14.17.0 (or newer)
